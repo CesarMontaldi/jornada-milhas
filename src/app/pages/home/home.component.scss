@@ -1,0 +1,15 @@
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 16px;
+  margin-bottom: 40px;
+}
+
+app-container {
+  h2 {
+    margin-left: 20px;
+  }
+}
+
+
